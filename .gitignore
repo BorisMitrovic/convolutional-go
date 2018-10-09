@@ -1,0 +1,13 @@
+*.bak
+*~
+
+*.gz
+*.log
+*.aux
+*.bbl
+*.blg
+*.dvi
+*.zip
+*.backup
+*.bz2
+*.pyc
